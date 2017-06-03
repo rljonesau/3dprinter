@@ -1,0 +1,9 @@
+[0529/193733:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0529/193733:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0529/193736:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0529/193736:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {02E91B6A-1782-4B01-B972-C28313D0EE1B}\BrowserCache\GPUCache to C:\ProgramData\Altium\Altium Designer {02E91B6A-1782-4B01-B972-C28313D0EE1B}\BrowserCache\old_GPUCache_000
+[0529/193736:ERROR:cache_creator.cc(129)] Unable to create cache
+[0529/193736:ERROR:shader_disk_cache.cc(589)] Shader Cache Creation failed: -2
+[0529/193736:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0529/193736:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {02E91B6A-1782-4B01-B972-C28313D0EE1B}\BrowserCache to C:\ProgramData\Altium\Altium Designer {02E91B6A-1782-4B01-B972-C28313D0EE1B}\old_BrowserCache_000
+[0529/193736:ERROR:cache_creator.cc(129)] Unable to create cache
